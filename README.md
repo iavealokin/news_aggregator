@@ -1,1 +1,1 @@
-# news_aggregator Golang
+# news_aggregator
